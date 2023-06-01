@@ -8,19 +8,18 @@
   },
   "dependencies": {
     "core-js": "^3.8.1",
+    "vant": "^2.12.50",
     "vue": "^2.6.12",
-    "vue-router": "^3.4.9",
-    "vant": "^2.12.50"
+    "vue-router": "^3.4.9"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^4.5.9",
-    "@vue/cli-plugin-router": "^4.5.9",
-    "@vue/cli-service": "^4.5.9",
+    "@vue/cli-plugin-babel": "^5.0.8",
+    "@vue/cli-plugin-router": "^5.0.8",
+    "@vue/cli-service": "^5.0.8",
     "less": "^4.1.1",
     "less-loader": "^7.3.0",
     "sass": "^1.37.5",
     "sass-loader": "^10.2.0",
-    "vue-template-compiler": "^2.6.12",
-    "yarn": "^1.22.19"
+    "vue-template-compiler": "^2.6.12"
   }
 }
